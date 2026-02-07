@@ -9,7 +9,7 @@ from datetime import date
 # ===============================
 # CONFIG
 # ===============================
-API_URL = "https://riskpulse-market-volatility-ai.onrender.com/"
+API_URL = "https://riskpulse-market-volatility-ai.onrender.com/predict"
 
 st.set_page_config(
     page_title="Market Volatility Forecast",
